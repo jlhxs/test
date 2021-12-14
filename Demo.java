@@ -9,4 +9,9 @@ public class Demo
   {
     System.out.println("ddd");
   }
+  
+  public static void test2()
+  {
+    test1();
+  }
 }
