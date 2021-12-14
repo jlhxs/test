@@ -4,4 +4,9 @@ public class Demo
   {
     System.out.println("hello world");
   }
+  
+  public static void test1()
+  {
+    System.out.println("ddd");
+  }
 }
